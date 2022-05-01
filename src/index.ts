@@ -1,1 +1,5 @@
-import '@/main';
+import Carousel from "@/Carousel/Carousel";
+
+export default {
+  Carousel,
+};
